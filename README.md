@@ -3,7 +3,9 @@
 </p>
 
 <br>
-<h1 align='center'>👋 Hi, I’m Ayannagori44</h1>
+<h1>👋 Hi, I’m Ayannagori44</h1>
+<p>I really like making modern UI/UX designs, Right now I do freelancing of truelancer. I would like to work with more and more clients. If you want any work done then don't hesitate to reach me.</p>
+
 <br>
 <h4>👀 I'm interested in Front-end development</h4>
 <h4>🌱 I'm currently learning ReactJs</h4>
