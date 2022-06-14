@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ayannagori.netlify.app/" target="_blank" rel="noreferrer"><img width="80%" src="https://user-images.githubusercontent.com/106472729/173548146-40495f01-af35-4342-b81c-d9d8eabe323d.jpg" alt="banner" /></a>
+  <a href="https://ayannagori.netlify.app/" target="_blank" rel="noreferrer"><img width="90%" src="https://user-images.githubusercontent.com/106472729/173569751-282c5985-b72c-4aa2-aa4d-afa60de20a99.jpg" alt="banner" /></a>
 </p>
 
 <br>
@@ -12,6 +12,7 @@
 <br><br>
 
 <h1 align='center'>🔨 Tools and 🔥Tech stack</h1>
+
 <br><br>
 
 <p>Stack</p>
